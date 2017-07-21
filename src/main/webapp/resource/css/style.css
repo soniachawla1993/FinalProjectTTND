@@ -1,0 +1,120 @@
+.row {
+    margin: 0px !important;
+}
+
+.fa {
+    font: normal normal normal 20px/1 FontAwesome !important;
+    color: #333;
+}
+
+.subheader {
+    font-size: 14px;
+    color: gray;
+}
+
+.input-group-addon.search {
+    position: relative;
+    left: 25px;
+    z-index: 9;
+    background: none;
+    padding: 0px;
+    border: 0px;
+}
+
+.searchbox {
+    border-radius: 20px !important;
+    padding-left: 30px !important;
+}
+
+.navbar-collapse {
+    text-align: center;
+}
+
+.navbar-collapse ul {
+    /* display: inline-block; */
+}
+
+.navbar-collapse ul li.menuicons {
+    float: left
+}
+
+.navbar-collapse ul li .icon {
+    padding: 15px 10px;
+}
+
+.dropdown-menu.usermenu {
+    padding: 0;
+}
+
+.dropdown-menu.usermenu .divider {
+    margin: 0;
+}
+
+.dropdown-toggle.user {
+    padding: 15px 10px;
+    display: table;
+}
+
+.dropdown {
+    margin-left: 20px;
+}
+
+.usericon {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.username,
+.subscriptions_topics {
+    color: #999;
+}
+
+.panel-title {
+    display: inline-block;
+}
+
+.subscriptions_sec .media-heading {
+    display: block
+}
+
+.clear-both {
+    clear: both
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+select {
+    background: white;
+    padding: 2px;
+}
+
+.subs_options .option{
+    text-align: right;
+    padding-right: 0;
+}
+.subs_options .option select{
+    width: 100%;
+}
+
+.trending_sec .inline-input, .subscriptions_sec .inline-input{
+    margin: 0;
+    padding: 0;
+}
+
+textarea.noresize {
+  resize: none; 
+}
+
+textarea.vresize {
+  resize: vertical; 
+}
+  
+textarea.hresize {
+  resize: horizontal;  
+} 
